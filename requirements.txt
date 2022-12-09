@@ -1,0 +1,4 @@
+Werkzeug <= 2.1.2
+flask == 2.1.2
+flask-sqlalchemy==2.5.1
+flask-restx==1.0.3
